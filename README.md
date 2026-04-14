@@ -52,7 +52,7 @@ It focuses on building a strong foundation in state management, component logic,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone {my-repo-name}
 
 npm install
 
